@@ -1,1 +1,1 @@
-# the-git-rocks3
+# The Git is actually rocking.
